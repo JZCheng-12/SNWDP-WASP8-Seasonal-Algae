@@ -4,6 +4,8 @@
 
 提交文件：[主报告 PDF](05_report/南水北调中线WASP8_季节率定与情景汇报.pdf) · [主报告 Word](05_report/南水北调中线WASP8_季节率定与情景汇报.docx) · [参数附录 PDF](05_report/补充材料_WASP8季节模型参数与复现说明.pdf)。数据来源与公开范围见 [DATA_SOURCES.md](DATA_SOURCES.md)。
 
+课程汇报：[18 页 PPT](05_report/南水北调中线WASP8_课程汇报.pptx) · [PDF 预览](05_report/南水北调中线WASP8_课程汇报_预览.pdf) · [R 绘图源码](06_复现脚本/plot_course_presentation.R) · [9 组图件与数据摘录](04_figures/course_presentation_R)。PPT 按「背景与目标—数据与建模方法—结果与机制解释—政策建议」编号组织，包含逐页讲解备注及参数附录。
+
 快速核查保存的计算结果（无需 WASP8）：
 
 ```powershell
@@ -39,8 +41,8 @@ python 06_复现脚本/reproduce.py check
 | `02_中间输出/07_季节三因素情景` | 两季各 27 个温度×DIP×流量情景工程 |
 | `03_最终结果/01_率定与检验` | 逐折选参、逐站预测、最终拟合和误差指标 |
 | `03_最终结果/04_季节情景与交互` | 54 行情景汇总、1566 条逐段输出、464 条交互分解、数值核验和机制诊断 |
-| `04_figures` | 图 1 空间率定、图 2 全因子响应、图 3 交互分解，提供 PNG/PDF/SVG |
-| `05_report` | 主报告、参数复现附录和参数／情景索引表 |
+| `04_figures` | 报告图 1–3，以及 `course_presentation_R` 中的 9 个课程 PPT 图面板，均提供 PNG/PDF/SVG |
+| `05_report` | 主报告、参数复现附录、参数／情景索引表及课程 PPT/PDF 预览 |
 | `06_复现脚本` | 求解、核验、诊断、绘图及报告脚本，含运行依赖、基础 WIF 与参数命令记录 |
 | `chart_data` | 三张图的配套绘图数据及渠段、流量表 |
 | `07_核查记录` | 从原始求解输出重算的报告统计、数值一致性检查与提交核查说明 |
@@ -60,5 +62,17 @@ python 06_复现脚本/reproduce.py check
 7. 执行 `build_submission_report.py` 生成主报告。`render_word.ps1` 接收报告文件名并导出 PDF。`refresh_manifest.py` 更新文件清单及 SHA-256。上述核查与生成步骤可由 `reproduce.py report` 一次执行。
 
 参数溯源命令用于核对设置来源；实际重算以随附基础 WIF 为起点。检查计算成果时，应同时核对求解器闭合日志、状态量完整性、营养盐质量平衡和末日 Chl-a 变化。所有文件的完整性以 `文件清单与校验值.csv` 为准。
+
+## 课程 PPT 与 R 图件复现
+
+仅重画 PPT 的 9 个科学数据图面板，无需安装 WASP8 或 Python 绘图库。在项目根目录运行：
+
+```powershell
+Rscript 06_复现脚本/plot_course_presentation.R
+```
+
+脚本使用 base R / grDevices，读取 `chart_data` 中已核查的模型输出；参考运行环境为 Windows、R 4.6.1 和 Microsoft YaHei 字体。输出保存在 `04_figures/course_presentation_R`，含 330 dpi PNG、矢量 PDF/SVG、两份绘图数据摘录及 `R_sessionInfo.txt`。PDF 保留文本；base R SVG 的文字可能转为轮廓。PPT 内的图为高清图片，修改数据后应重新运行 R 并组装 PPT；正文和表格可直接编辑。
+
+完整重建 PPT 还需用户提供的单页 `PPT_模板.pptx`、Python 可选依赖及可用的 `@oai/artifact-tool` 运行时。外部模板和 Codex 运行时不包含在仓库中，单独克隆仓库不能直接完成 PPT 组装，但可以直接使用已提供的 PPT/PDF、独立重画全部 R 图件。模板扩展、组装、最终文件重新渲染和 PDF 预览的完整命令见 [课程汇报复现说明](06_复现脚本/README.md#课程汇报演示文稿)。这些步骤不改变 WASP8 模型结果。
 
 ![两季三因素情景响应](04_figures/Fig02_seasonal_factorial.png)

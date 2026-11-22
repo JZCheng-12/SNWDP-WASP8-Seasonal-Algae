@@ -1,0 +1,4 @@
+# Optional dependencies for template preparation and slide-preview packaging.
+# R and @oai/artifact-tool are separate runtime requirements; see README.md.
+python-pptx>=1.0,<2
+reportlab>=4,<5
