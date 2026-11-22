@@ -1,0 +1,31 @@
+﻿item,value,unit,source,status
+model_dimensionality,1D; 29 segments,,equivalent water-column network,prescribed flows; no momentum equation calibration
+uniform_width,54,m,course geometry assumption,not a reach-by-reach survey
+uniform_depth,6.95,m,course geometry assumption,constant depth and volume
+cross_section,375.3,m2,54*6.95,rectangular equivalent
+structures,lumped,,course simplification,no individual siphon/weir/aqueduct hydraulics
+summer_period,2020-08,month,provided observation period,course seasonal label; not a continuous time series
+winter_period,2021-03,month,provided observation period,course seasonal label; not a continuous time series
+simulation_duration,90,d,constant-forcing experiment,report endpoint; not all scenarios strictly steady
+flow,mass-balanced campaign snapshot,m3/s,processed env.xlsx,no continuous dispatch hydrograph
+longitudinal_dispersion,0,m2/s,baseline simplification,not tracer-calibrated
+summer_uniform_temperature,27.88275862,C,mean of 29 paired-reach temperatures,uniform spatial forcing
+winter_uniform_temperature,9.92758621,C,mean of 29 paired-reach temperatures,uniform spatial forcing
+baseline_DIP_fraction,0.10,fraction of TP,assumed state partition,PO4-P/SRP not measured
+algae_observations,20 summer; 22 winter,usable points,Science Bulletin Fig S2 digitization,approximate values with candidate station matching
+summer_inlet_Chla,5,ug/L,assumed boundary,not measured inlet concentration
+winter_inlet_Chla,7,ug/L,post-hoc sensitivity selection,not independently validated
+summer_G20_Topt_Kd,0.5; 30; 0.7,d-1; C; m-1,seasonal parameter selection,fixed within summer scenarios
+winter_G20_Topt_Kd,4; 20; 0.3,d-1; C; m-1,seasonal parameter selection,fixed within winter scenarios
+C_to_Chla,25,mgC/mgChla,fixed assumption,not measured composition
+summer_N_to_C,0.15,mgN/mgC,fixed assumption,same in first parameter grid
+winter_N_to_C,0.10,mgN/mgC,inlet exploration assumption,first grid used 0.15
+P_to_C,0.012,mgP/mgC,fixed assumption,algal P subtracted from organic pools
+respiration_20C,0.02,d-1,fixed assumption,temperature coefficient 1.07
+growth_temperature_shape,0.05; 0.05,,fixed below/above optimum,growth temperature coefficient 1
+daily_radiation,150,W/m2,fixed light proxy,not contemporaneous PAR
+daylight_fraction,0.5,fraction,fixed photoperiod proxy,not seasonal measured daylight
+warming_levels,0; 2; 4,C,factorial pressure test,not a dated climate projection
+DIP_multipliers,1; 2; 4,factor,factorial pressure test,boundary and initial DIP only; other P pools fixed
+Q_multipliers,0.7; 1; 1.3,factor,factorial pressure test,all flow paths scaled; inlet concentration fixed
+validation,within-season spatial four-fold,,four fixed station blocks,exploratory design; not independent external validation

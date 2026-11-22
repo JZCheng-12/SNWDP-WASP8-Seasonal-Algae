@@ -1,0 +1,49 @@
+﻿period,case,location,WASP_state_variable,value_mg_L,status
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,0.9225,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00102,assumed fraction of measured TP
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00459,assumed half of non-DIP TP
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00459,assumed half of non-DIP TP
+2020-08,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.7,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,0.9225,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00306,assumed fraction of measured TP
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00357,assumed half of non-DIP TP
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00357,assumed half of non-DIP TP
+2020-08,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.7,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,0.9225,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0696,assumed half of TN minus measured DIN
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00714,assumed fraction of measured TP
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00153,assumed half of non-DIP TP
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00153,assumed half of non-DIP TP
+2020-08,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.7,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,1.151,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00106,assumed fraction of measured TP
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00477,assumed half of non-DIP TP
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00477,assumed half of non-DIP TP
+2021-03,DIP_10pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.71,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,1.151,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00318,assumed fraction of measured TP
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00371,assumed half of non-DIP TP
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00371,assumed half of non-DIP TP
+2021-03,DIP_30pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.71,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Ammonia Nitrogen,0.0,measured NH3 as N; analytical code check
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Nitrate Nitrogen,1.151,proxy NO3-N + NO2-N; model lacks separate nitrite state
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Detrital Nitrogen,0.0095,assumed half of TN minus measured DIN
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Inorganic Phosphate,0.00742,assumed fraction of measured TP
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Organic Phosphorus,0.00159,assumed half of non-DIP TP
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Detrital Phosphorus,0.00159,assumed half of non-DIP TP
+2021-03,DIP_70pct,upstream_boundary_and_uniform_initial_seed,Dissolved Oxygen,9.71,proxy from Huang et al. 2025 annual mean for 2020/2021; not contemporaneous station 03 measurement

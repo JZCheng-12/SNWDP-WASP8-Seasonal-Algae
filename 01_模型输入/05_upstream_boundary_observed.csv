@@ -1,0 +1,13 @@
+﻿period,boundary_id,variable,value,unit,source_sample_id,status
+2020-08,canal_head_station_03,NH3,0,mg-N/L,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2020-08,canal_head_station_03,NO3,0.9225,mg-N/L,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2020-08,canal_head_station_03,NO2,0,mg-N/L,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2020-08,canal_head_station_03,TN,1.0617,mg-N/L,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2020-08,canal_head_station_03,TP,0.0102,mg-P/L,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2020-08,canal_head_station_03,T,25.1,degC,03A,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,NH3,0,mg-N/L,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,NO3,1.134,mg-N/L,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,NO2,0.017,mg-N/L,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,TN,1.17,mg-N/L,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,TP,0.0106,mg-P/L,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"
+2021-03,canal_head_station_03,T,10.6,degC,03S,"measured campaign snapshot held constant for hypothetical steady case; TP/TN are aggregate checks, not WASP state variables"

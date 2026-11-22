@@ -1,0 +1,13 @@
+name: Check archived model results
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify results, calibration and interaction identities
+        run: python 06_复现脚本/reproduce.py check
+

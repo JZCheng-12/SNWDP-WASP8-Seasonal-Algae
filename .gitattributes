@@ -1,0 +1,9 @@
+* -text
+*.wif binary
+*.OUT binary
+*.BMD2 binary
+*.png binary
+*.pdf binary
+*.docx binary
+*.csv -text
+

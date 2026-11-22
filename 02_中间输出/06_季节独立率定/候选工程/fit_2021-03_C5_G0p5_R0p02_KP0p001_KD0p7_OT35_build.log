@@ -1,0 +1,1214 @@
+---------------------------------
+PWASPINIT 
+Result: 
+  argc: 0 (INTEGER)
+  argv: 
+---------------------------------
+PLOADWIF 2021-03_daily_combined_base.wif 
+Result: 
+  filename: 2021-03_daily_combined_base.wif (STRING)
+  handle: 0 (INTEGER)
+  error: 0 (INTEGER)
+---------------------------------
+PCONSTANTSREFRESH 
+Result: 
+---------------------------------
+PCONSTVALUEBYISC 65 1 0.15000000 
+Result: 
+  isc: 65 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 0.150000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 66 1 0.01200000 
+Result: 
+  isc: 66 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 0.012000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 68 1 25.00000000 
+Result: 
+  isc: 68 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 25.000000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 69 1 0.50000000 
+Result: 
+  isc: 69 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 0.500000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 71 1 35.00000000 
+Result: 
+  isc: 71 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 35.000000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 74 1 0.02000000 
+Result: 
+  isc: 74 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 0.020000 (REAL)
+---------------------------------
+PCONSTVALUEBYISC 82 1 0.00100000 
+Result: 
+  isc: 82 (INTEGER)
+  instance_index: 1 (INTEGER)
+  value: 0.001000 (REAL)
+---------------------------------
+PBOUNDFUNC 3 1 1 0 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 0.000125 (REAL)
+---------------------------------
+PBOUNDFUNC 3 1 2 90 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 0.000125 (REAL)
+---------------------------------
+PINITC 3 1 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 2 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 3 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 4 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 5 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 6 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 7 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 8 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 9 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 10 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 11 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 12 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 13 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 14 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 15 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 16 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 17 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 18 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 19 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 20 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 21 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 22 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 23 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 24 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 25 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 26 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 27 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 28 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 3 29 0.00012500 
+Result: 
+  system_index: 3 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PBOUNDFUNC 4 1 1 0 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 0.000125 (REAL)
+---------------------------------
+PBOUNDFUNC 4 1 2 90 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 0.000125 (REAL)
+---------------------------------
+PINITC 4 1 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 2 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 3 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 4 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 5 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 6 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 7 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 8 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 9 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 10 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 11 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 12 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 13 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 14 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 15 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 16 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 17 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 18 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 19 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 20 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 21 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 22 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 23 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 24 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 25 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 26 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 27 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 28 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PINITC 4 29 0.00012500 
+Result: 
+  system_index: 4 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 0.000125 (REAL)
+---------------------------------
+PBOUNDFUNC 6 1 1 0 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 0.004020 (REAL)
+---------------------------------
+PBOUNDFUNC 6 1 2 90 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 0.004020 (REAL)
+---------------------------------
+PINITC 6 1 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 2 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 3 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 4 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 5 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 6 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 7 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 8 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 9 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 10 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 11 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 12 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 13 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 14 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 15 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 16 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 17 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 18 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 19 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 20 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 21 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 22 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 23 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 24 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 25 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 26 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 27 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 28 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 6 29 0.00402000 
+Result: 
+  system_index: 6 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PBOUNDFUNC 7 1 1 0 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 0.004020 (REAL)
+---------------------------------
+PBOUNDFUNC 7 1 2 90 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 0.004020 (REAL)
+---------------------------------
+PINITC 7 1 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 2 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 3 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 4 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 5 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 6 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 7 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 8 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 9 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 10 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 11 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 12 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 13 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 14 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 15 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 16 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 17 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 18 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 19 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 20 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 21 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 22 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 23 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 24 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 25 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 26 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 27 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 28 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PINITC 7 29 0.00402000 
+Result: 
+  system_index: 7 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 0.004020 (REAL)
+---------------------------------
+PBOUNDFUNC 11 1 1 0 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 5.000000 (REAL)
+---------------------------------
+PBOUNDFUNC 11 1 2 90 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 5.000000 (REAL)
+---------------------------------
+PINITC 11 1 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 2 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 3 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 4 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 5 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 6 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 7 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 8 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 9 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 10 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 11 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 12 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 13 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 14 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 15 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 16 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 17 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 18 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 19 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 20 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 21 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 22 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 23 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 24 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 25 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 26 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 27 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 28 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PINITC 11 29 5.00000000 
+Result: 
+  system_index: 11 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 5.000000 (REAL)
+---------------------------------
+PCONSTPARAM 1 17 1 0.70000000 
+Result: 
+  segment_index: 1 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 2 17 1 0.70000000 
+Result: 
+  segment_index: 2 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 3 17 1 0.70000000 
+Result: 
+  segment_index: 3 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 4 17 1 0.70000000 
+Result: 
+  segment_index: 4 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 5 17 1 0.70000000 
+Result: 
+  segment_index: 5 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 6 17 1 0.70000000 
+Result: 
+  segment_index: 6 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 7 17 1 0.70000000 
+Result: 
+  segment_index: 7 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 8 17 1 0.70000000 
+Result: 
+  segment_index: 8 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 9 17 1 0.70000000 
+Result: 
+  segment_index: 9 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 10 17 1 0.70000000 
+Result: 
+  segment_index: 10 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 11 17 1 0.70000000 
+Result: 
+  segment_index: 11 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 12 17 1 0.70000000 
+Result: 
+  segment_index: 12 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 13 17 1 0.70000000 
+Result: 
+  segment_index: 13 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 14 17 1 0.70000000 
+Result: 
+  segment_index: 14 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 15 17 1 0.70000000 
+Result: 
+  segment_index: 15 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 16 17 1 0.70000000 
+Result: 
+  segment_index: 16 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 17 17 1 0.70000000 
+Result: 
+  segment_index: 17 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 18 17 1 0.70000000 
+Result: 
+  segment_index: 18 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 19 17 1 0.70000000 
+Result: 
+  segment_index: 19 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 20 17 1 0.70000000 
+Result: 
+  segment_index: 20 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 21 17 1 0.70000000 
+Result: 
+  segment_index: 21 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 22 17 1 0.70000000 
+Result: 
+  segment_index: 22 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 23 17 1 0.70000000 
+Result: 
+  segment_index: 23 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 24 17 1 0.70000000 
+Result: 
+  segment_index: 24 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 25 17 1 0.70000000 
+Result: 
+  segment_index: 25 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 26 17 1 0.70000000 
+Result: 
+  segment_index: 26 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 27 17 1 0.70000000 
+Result: 
+  segment_index: 27 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 28 17 1 0.70000000 
+Result: 
+  segment_index: 28 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PCONSTPARAM 29 17 1 0.70000000 
+Result: 
+  segment_index: 29 (INTEGER)
+  isc_number: 17 (INTEGER)
+  instance_index: 1 (INTEGER)
+  constparam: 0.700000 (REAL)
+---------------------------------
+PSAVEWIF fit_2021-03_C5_G0p5_R0p02_KP0p001_KD0p7_OT35.wif 
+Result: 
+  filename: fit_2021-03_C5_G0p5_R0p02_KP0p001_KD0p7_OT35.wif (STRING)
+  error: 0 (INTEGER)

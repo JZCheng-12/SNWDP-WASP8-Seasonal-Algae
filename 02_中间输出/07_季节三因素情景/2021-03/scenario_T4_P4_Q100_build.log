@@ -1,0 +1,241 @@
+---------------------------------
+PWASPINIT 
+Result: 
+  argc: 0 (INTEGER)
+  argv: 
+---------------------------------
+PLOADWIF base.wif 
+Result: 
+  filename: base.wif (STRING)
+  handle: 0 (INTEGER)
+  error: 0 (INTEGER)
+---------------------------------
+PBRKTF 1 1 1 0 13.92758621 
+Result: 
+  isc: 1 (INTEGER)
+  time_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 13.927587 (REAL)
+---------------------------------
+PBRKTF 1 1 2 90 13.92758621 
+Result: 
+  isc: 1 (INTEGER)
+  time_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 13.927587 (REAL)
+---------------------------------
+PBOUNDFUNC 5 1 1 0 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 0.004240 (REAL)
+---------------------------------
+PBOUNDFUNC 5 1 2 90 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  boundary_function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 0.004240 (REAL)
+---------------------------------
+PINITC 5 1 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 1 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 2 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 2 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 3 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 3 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 4 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 4 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 5 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 5 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 6 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 6 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 7 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 7 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 8 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 8 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 9 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 9 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 10 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 10 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 11 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 11 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 12 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 12 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 13 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 13 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 14 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 14 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 15 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 15 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 16 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 16 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 17 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 17 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 18 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 18 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 19 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 19 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 20 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 20 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 21 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 21 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 22 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 22 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 23 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 23 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 24 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 24 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 25 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 25 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 26 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 26 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 27 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 27 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 28 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 28 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PINITC 5 29 0.00424000 
+Result: 
+  system_index: 5 (INTEGER)
+  segment_index: 29 (INTEGER)
+  initc: 0.004240 (REAL)
+---------------------------------
+PNOQFUNC 1 1 1 0 273.18315560 
+Result: 
+  field_index: 1 (INTEGER)
+  function_index: 1 (INTEGER)
+  point_index: 1 (INTEGER)
+  days: 0.000000 (REAL)
+  value: 273.183167 (REAL)
+---------------------------------
+PNOQFUNC 1 1 2 90 273.18315560 
+Result: 
+  field_index: 1 (INTEGER)
+  function_index: 1 (INTEGER)
+  point_index: 2 (INTEGER)
+  days: 90.000000 (REAL)
+  value: 273.183167 (REAL)
+---------------------------------
+PTFSREFRESH 
+Result: 
+---------------------------------
+PSAVEWIF scenario_T4_P4_Q100.wif 
+Result: 
+  filename: scenario_T4_P4_Q100.wif (STRING)
+  error: 0 (INTEGER)

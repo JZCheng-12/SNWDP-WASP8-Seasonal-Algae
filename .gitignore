@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+_qa_render/
+~$*
+*.tmp
+01_模型输入/Chla图像估读/*原图*
+*.exe
+*.dll
+.env
+.env.*
+

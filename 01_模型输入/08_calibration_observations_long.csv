@@ -1,0 +1,406 @@
+﻿period,season_code,sample_id,station_id,segment_id,variable,observed_value,unit,calibration_role,comparison_basis,status
+2020-08,A,04A,04,S01,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,04A,04,S01,NOx_proxy,1.0097,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,04A,04,S01,NO3,1.0097,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,04A,04,S01,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,04A,04,S01,TN,1.1604,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,04A,04,S01,TP,0.0099,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,04A,04,S01,T,25.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,05A,05,S02,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,05A,05,S02,NOx_proxy,0.779,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,05A,05,S02,NO3,0.773,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,05A,05,S02,NO2,0.006,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,05A,05,S02,TN,0.9462,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,05A,05,S02,TP,0.0195,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,05A,05,S02,T,27.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,06A,06,S03,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,06A,06,S03,NOx_proxy,0.9397,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,06A,06,S03,NO3,0.9367,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,06A,06,S03,NO2,0.003,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,06A,06,S03,TN,1.073,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,06A,06,S03,T,26.9,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,07A,07,S04,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,07A,07,S04,NOx_proxy,0.7963,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,07A,07,S04,NO3,0.7813,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,07A,07,S04,NO2,0.015,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,07A,07,S04,TN,0.9983,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,07A,07,S04,TP,0.0104,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,07A,07,S04,T,28.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,08A,08,S05,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,08A,08,S05,NOx_proxy,0.9247,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,08A,08,S05,NO3,0.8437,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,08A,08,S05,NO2,0.081,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,08A,08,S05,TN,0.9983,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,08A,08,S05,TP,0.0104,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,08A,08,S05,T,27.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,09A,09,S06,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,09A,09,S06,NOx_proxy,0.8468,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,09A,09,S06,NO3,0.8378,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,09A,09,S06,NO2,0.009,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,09A,09,S06,TN,1.0223,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,09A,09,S06,TP,0.0109,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,09A,09,S06,T,27.3,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,10A,10,S07,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,10A,10,S07,NOx_proxy,0.8425,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,10A,10,S07,NO3,0.8425,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,10A,10,S07,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,10A,10,S07,TN,0.9786,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,10A,10,S07,TP,0.0105,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,10A,10,S07,T,27.4,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,11A,11,S08,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,11A,11,S08,NOx_proxy,0.7931,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,11A,11,S08,NO3,0.7931,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,11A,11,S08,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,11A,11,S08,TN,0.973,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,11A,11,S08,TP,0.0051,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,11A,11,S08,T,29.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,12A,12,S09,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,12A,12,S09,NOx_proxy,0.6706,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,12A,12,S09,NO3,0.6706,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,12A,12,S09,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,12A,12,S09,TN,0.88,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,12A,12,S09,TP,0.0048,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,12A,12,S09,T,29.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,13A,13,S10,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,13A,13,S10,NOx_proxy,0.6746,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,13A,13,S10,NO3,0.6706,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,13A,13,S10,NO2,0.004,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,13A,13,S10,TN,0.9067,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,13A,13,S10,TP,0.0049,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,13A,13,S10,T,29.4,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,14A,14,S11,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,14A,14,S11,NOx_proxy,0.7707,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,14A,14,S11,NO3,0.7707,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,14A,14,S11,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,14A,14,S11,TN,0.9561,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,14A,14,S11,TP,0.0056,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,14A,14,S11,T,29.4,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,15A,15,S12,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,15A,15,S12,NOx_proxy,0.7672,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,15A,15,S12,NO3,0.7672,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,15A,15,S12,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,15A,15,S12,TN,0.9392,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,15A,15,S12,TP,0.0102,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,15A,15,S12,T,28.9,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,16A,16,S13,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,16A,16,S13,NOx_proxy,0.7566,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,16A,16,S13,NO3,0.7566,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,16A,16,S13,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,16A,16,S13,TN,0.9096,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,16A,16,S13,TP,0.0099,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,16A,16,S13,T,29.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,17A,17,S14,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,17A,17,S14,NOx_proxy,0.7213,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,17A,17,S14,NO3,0.7213,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,17A,17,S14,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,17A,17,S14,TN,0.9025,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,17A,17,S14,TP,0.0104,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,17A,17,S14,T,29.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,18A,18,S15,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,18A,18,S15,NOx_proxy,0.746,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,18A,18,S15,NO3,0.746,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,18A,18,S15,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,18A,18,S15,TN,0.9561,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,18A,18,S15,TP,0.0106,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,18A,18,S15,T,29.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,19A,19,S16,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,19A,19,S16,NOx_proxy,0.6447,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,19A,19,S16,NO3,0.6447,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,19A,19,S16,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,19A,19,S16,TN,0.8447,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,19A,19,S16,TP,0.0044,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,19A,19,S16,T,26.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,20A,20,S17,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,20A,20,S17,NOx_proxy,0.7083,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,20A,20,S17,NO3,0.7083,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,20A,20,S17,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,20A,20,S17,TN,0.8955,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,20A,20,S17,TP,0.0047,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,20A,20,S17,T,26.6,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,21A,21,S18,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,21A,21,S18,NOx_proxy,0.6965,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,21A,21,S18,NO3,0.6965,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,21A,21,S18,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,21A,21,S18,TN,0.8828,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,21A,21,S18,TP,0.0091,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,21A,21,S18,T,25.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,22A,22,S19,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,22A,22,S19,NOx_proxy,0.6695,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,22A,22,S19,NO3,0.6695,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,22A,22,S19,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,22A,22,S19,TN,0.8659,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,22A,22,S19,TP,0.0044,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,22A,22,S19,T,26.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,23A,23,S20,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,23A,23,S20,NOx_proxy,0.66,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,23A,23,S20,NO3,0.66,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,23A,23,S20,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,23A,23,S20,TN,0.8462,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,23A,23,S20,TP,0.0044,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,23A,23,S20,T,26.3,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,NH3,0.1146,mg-N/L,calibration,direct,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,NOx_proxy,0.6,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,24A,24,S21,NO3,0.6,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,TN,0.8405,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,TP,0.0045,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,24A,24,S21,T,26.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,25A,25,S22,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,25A,25,S22,NOx_proxy,0.6259,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,25A,25,S22,NO3,0.6259,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,25A,25,S22,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,25A,25,S22,TN,0.8166,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,25A,25,S22,TP,0.0043,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,25A,25,S22,T,25.7,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,26A,26,S23,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,26A,26,S23,NOx_proxy,0.6294,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,26A,26,S23,NO3,0.6294,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,26A,26,S23,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,26A,26,S23,TN,0.8222,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,26A,26,S23,TP,0.0084,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,26A,26,S23,T,26.3,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,27A,27,S24,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,27A,27,S24,NOx_proxy,0.5871,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,27A,27,S24,NO3,0.5871,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,27A,27,S24,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,27A,27,S24,TN,0.7968,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,27A,27,S24,TP,0.0037,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,27A,27,S24,T,30.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,28A,28,S25,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,28A,28,S25,NOx_proxy,0.6035,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,28A,28,S25,NO3,0.6035,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,28A,28,S25,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,28A,28,S25,TN,0.8123,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,28A,28,S25,TP,0.0042,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,28A,28,S25,T,29.6,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,29A,29,S26,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,29A,29,S26,NOx_proxy,0.6212,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,29A,29,S26,NO3,0.6212,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,29A,29,S26,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,29A,29,S26,TN,0.9702,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,29A,29,S26,TP,0.0048,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,29A,29,S26,T,28.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,30A,30,S27,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,30A,30,S27,NOx_proxy,0.6895,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,30A,30,S27,NO3,0.6895,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,30A,30,S27,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,30A,30,S27,TN,0.8927,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,30A,30,S27,TP,0.0047,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,30A,30,S27,T,28.9,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,31A,31,S28,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,31A,31,S28,NOx_proxy,0.5918,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,31A,31,S28,NO3,0.5918,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,31A,31,S28,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,31A,31,S28,TN,0.7926,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,31A,31,S28,TP,0.0038,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,31A,31,S28,T,30.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,32A,32,S29,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2020-08,A,32A,32,S29,NOx_proxy,0.6377,mg-N/L,calibration,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2020-08,A,32A,32,S29,NO3,0.6377,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,32A,32,S29,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2020-08,A,32A,32,S29,TN,0.8194,mg-N/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,32A,32,S29,TP,0.0042,mg-P/L,calibration,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2020-08,A,32A,32,S29,T,30.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,04S,04,S01,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,04S,04,S01,NOx_proxy,1.0142,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,04S,04,S01,NO3,1.0002,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,04S,04,S01,NO2,0.014,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,04S,04,S01,TN,1.1138,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,04S,04,S01,TP,0.0102,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,04S,04,S01,T,10.6,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,05S,05,S02,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,05S,05,S02,NOx_proxy,1.0398999999999998,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,05S,05,S02,NO3,1.0067,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,05S,05,S02,NO2,0.0332,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,05S,05,S02,TN,1.1431,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,05S,05,S02,TP,0.0104,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,05S,05,S02,T,11.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,06S,06,S03,NH3,0.1205,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,06S,06,S03,NOx_proxy,1.127,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,06S,06,S03,NO3,1.0315,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,06S,06,S03,NO2,0.0955,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,06S,06,S03,TN,1.126,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,06S,06,S03,TP,0.0099,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,06S,06,S03,T,11.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,07S,07,S04,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,07S,07,S04,NOx_proxy,0.9853999999999999,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,07S,07,S04,NO3,0.956,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,07S,07,S04,NO2,0.0294,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,07S,07,S04,TN,1.0065,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,07S,07,S04,TP,0.0093,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,07S,07,S04,T,10.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,08S,08,S05,NH3,0.1309,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,08S,08,S05,NOx_proxy,1.0634,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,08S,08,S05,NO3,1.0487,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,08S,08,S05,NO2,0.0147,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,08S,08,S05,TN,1.1504,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,08S,08,S05,TP,0.0104,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,08S,08,S05,T,10.7,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,09S,09,S06,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,09S,09,S06,NOx_proxy,0.9836,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,09S,09,S06,NO3,0.9635,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,09S,09,S06,NO2,0.0201,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,09S,09,S06,TN,1.0285,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,09S,09,S06,TP,0.0106,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,09S,09,S06,T,10.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,10S,10,S07,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,10S,10,S07,NOx_proxy,1.0015,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,10S,10,S07,NO3,0.9775,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,10S,10,S07,NO2,0.024,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,10S,10,S07,TN,1.0838,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,10S,10,S07,TP,0.0113,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,10S,10,S07,T,11.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,11S,11,S08,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,11S,11,S08,NOx_proxy,0.9683999999999999,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,11S,11,S08,NO3,0.9398,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,11S,11,S08,NO2,0.0286,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,11S,11,S08,TN,1.0692,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,11S,11,S08,TP,0.0047,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,11S,11,S08,T,9.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,12S,12,S09,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,12S,12,S09,NOx_proxy,1.0261,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,12S,12,S09,NO3,0.9775,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,12S,12,S09,NO2,0.0486,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,12S,12,S09,TN,1.118,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,12S,12,S09,TP,0.011,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,12S,12,S09,T,9.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,13S,13,S10,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,13S,13,S10,NOx_proxy,1.0433999999999999,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,13S,13,S10,NO3,1.011,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,13S,13,S10,NO2,0.0324,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,13S,13,S10,TN,1.0607,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,13S,13,S10,TP,0.0102,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,13S,13,S10,T,10.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,14S,14,S11,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,14S,14,S11,NOx_proxy,0.9618,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,14S,14,S11,NO3,0.9117,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,14S,14,S11,NO2,0.0501,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,14S,14,S11,TN,1.1253,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,14S,14,S11,TP,0.005,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,14S,14,S11,T,10.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,15S,15,S12,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,15S,15,S12,NOx_proxy,1.002,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,15S,15,S12,NO3,0.9527,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,15S,15,S12,NO2,0.0493,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,15S,15,S12,TN,1.018,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,15S,15,S12,TP,0.0095,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,15S,15,S12,T,10.7,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,16S,16,S13,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,16S,16,S13,NOx_proxy,1.0199,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,16S,16,S13,NO3,0.9667,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,16S,16,S13,NO2,0.0532,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,16S,16,S13,TN,1.0936,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,16S,16,S13,TP,0.0047,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,16S,16,S13,T,10.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,17S,17,S14,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,17S,17,S14,NOx_proxy,1.0383,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,17S,17,S14,NO3,0.9743,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,17S,17,S14,NO2,0.064,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,17S,17,S14,TN,1.0985,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,17S,17,S14,TP,0.0104,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,17S,17,S14,T,10.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,18S,18,S15,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,18S,18,S15,NOx_proxy,1.0072999999999999,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,18S,18,S15,NO3,0.9549,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,18S,18,S15,NO2,0.0524,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,18S,18,S15,TN,1.0973,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,18S,18,S15,TP,0.0055,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,18S,18,S15,T,10.7,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,19S,19,S16,NH3,0.0,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,19S,19,S16,NOx_proxy,1.0190000000000001,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,19S,19,S16,NO3,0.9797,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,19S,19,S16,NO2,0.0393,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,19S,19,S16,TN,1.0875,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,19S,19,S16,TP,0.005,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,19S,19,S16,T,10.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,20S,20,S17,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,20S,20,S17,NOx_proxy,1.0448,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,20S,20,S17,NO3,0.9916,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,20S,20,S17,NO2,0.0532,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,20S,20,S17,TN,1.0582,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,20S,20,S17,TP,0.0051,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,20S,20,S17,T,9.8,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,21S,21,S18,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,21S,21,S18,NOx_proxy,1.0242,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,21S,21,S18,NO3,0.9764,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,21S,21,S18,NO2,0.0478,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,21S,21,S18,TN,0.9765,mg-N/L,exclude_TN_mass_balance_conflict,diagnostic_total_requires_model_sum,observed; exact sampling day unknown; DIN exceeds TN
+2021-03,S,21S,21,S18,TP,0.0046,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,21S,21,S18,T,10.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,22S,22,S19,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,22S,22,S19,NOx_proxy,1.0604,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,22S,22,S19,NO3,0.998,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,22S,22,S19,NO2,0.0624,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,22S,22,S19,TN,1.129,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,22S,22,S19,TP,0.0054,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,22S,22,S19,T,10.1,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,23S,23,S20,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,23S,23,S20,NOx_proxy,1.0654,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,23S,23,S20,NO3,1.0045,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,23S,23,S20,NO2,0.0609,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,23S,23,S20,TN,1.1534,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,23S,23,S20,TP,0.0055,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,23S,23,S20,T,10.2,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,24S,24,S21,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,24S,24,S21,NOx_proxy,1.0437,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,24S,24,S21,NO3,0.9797,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,24S,24,S21,NO2,0.064,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,24S,24,S21,TN,1.1509,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,24S,24,S21,TP,0.0055,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,24S,24,S21,T,10.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,25S,25,S22,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,25S,25,S22,NOx_proxy,0.9707,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,25S,25,S22,NO3,0.9398,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,25S,25,S22,NO2,0.0309,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,25S,25,S22,TN,1.1253,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,25S,25,S22,TP,0.0107,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,25S,25,S22,T,9.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,NH3,0.1128,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,NOx_proxy,0.9599000000000001,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,26S,26,S23,NO3,0.929,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,NO2,0.0309,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,TN,1.1241,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,TP,0.0054,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,26S,26,S23,T,8.3,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,27S,27,S24,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,27S,27,S24,NOx_proxy,0.9336,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,27S,27,S24,NO3,0.9096,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,27S,27,S24,NO2,0.024,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,27S,27,S24,TN,1.0497,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,27S,27,S24,TP,0.0048,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,27S,27,S24,T,9.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,NH3,0.1529,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,NOx_proxy,0.934,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,28S,28,S25,NO3,0.9139,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,NO2,0.0201,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,TN,1.2888,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,TP,0.0037,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,28S,28,S25,T,9.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,29S,29,S26,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,29S,29,S26,NOx_proxy,0.9354,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,29S,29,S26,NO3,0.916,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,29S,29,S26,NO2,0.0194,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,29S,29,S26,TN,0.9985,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,29S,29,S26,TP,0.0039,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,29S,29,S26,T,7.5,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,NH3,0.1399,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,NOx_proxy,0.9268,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,30S,30,S27,NO3,0.9074,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,NO2,0.0194,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,TN,1.1253,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,TP,0.0038,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,30S,30,S27,T,7.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,31S,31,S28,NH3,0.05,mg-N/L,diagnostic_censoring_unknown,direct,"observed; exact sampling day unknown; repeated zero/0.05 suggests censoring or substitution, lab code unknown"
+2021-03,S,31S,31,S28,NOx_proxy,0.871,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,31S,31,S28,NO3,0.847,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,31S,31,S28,NO2,0.024,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,31S,31,S28,TN,1.0314,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,31S,31,S28,TP,0.0049,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,31S,31,S28,T,9.0,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,NH3,0.1102,mg-N/L,validation,direct,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,NOx_proxy,0.8492,mg-N/L,validation,NO3+NO2 proxy for WASP Nitrate Nitrogen,derived sum of measured NO2-N and NO3-N; exact sampling day unknown
+2021-03,S,32S,32,S29,NO3,0.8492,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,NO2,0.0,mg-N/L,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,TN,0.9838,mg-N/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,TP,0.0047,mg-P/L,validation,diagnostic_total_requires_model_sum,observed; exact sampling day unknown
+2021-03,S,32S,32,S29,T,8.6,degC,diagnostic_only,forcing_or_diagnostic,observed; exact sampling day unknown

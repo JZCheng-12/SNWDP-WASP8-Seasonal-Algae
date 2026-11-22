@@ -1,0 +1,7 @@
+﻿period,case,TP_observed_at_03_mg_P_L,assumed_DIP_fraction,assumed_DOP_fraction,assumed_POP_fraction,DIP_boundary_mg_P_L,DOP_boundary_mg_P_L,POP_boundary_mg_P_L,status
+2020-08,DIP_10pct,0.0102,0.1,0.45,0.45,0.00102,0.00459,0.00459,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction
+2020-08,DIP_30pct,0.0102,0.3,0.35,0.35,0.00306,0.00357,0.00357,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction
+2020-08,DIP_70pct,0.0102,0.7,0.15,0.15,0.00714,0.00153,0.00153,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction
+2021-03,DIP_10pct,0.0106,0.1,0.45,0.45,0.00106,0.00477,0.00477,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction
+2021-03,DIP_30pct,0.0106,0.3,0.35,0.35,0.00318,0.00371,0.00371,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction
+2021-03,DIP_70pct,0.0106,0.7,0.15,0.15,0.00742,0.00159,0.00159,illustrative mass-conserving partition; no PO4-P measurement; do not calibrate fraction

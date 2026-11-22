@@ -1,0 +1,26 @@
+Wasp suite version 8.5.0, Gui develop af12325 dirty, Model master e86fb43 
+get_nth_time_function(15, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=15 tfindex=1
+get_nth_time_function(15, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=15 tfindex=1
+get_nth_time_function(29, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=29 tfindex=1
+get_nth_time_function(29, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=29 tfindex=1
+get_nth_time_function(30, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=30 tfindex=1
+get_nth_time_function(30, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=30 tfindex=1
+get_nth_time_function(31, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=31 tfindex=1
+get_nth_time_function(31, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=31 tfindex=1
+get_nth_time_function(32, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=32 tfindex=1
+get_nth_time_function(32, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=32 tfindex=1
+get_nth_time_function(70, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=70 tfindex=1
+get_nth_time_function(70, 0) NOT FOUND
+ERROR: Failed to locate time function, isc=70 tfindex=1
+ WASP8 run successfully closed out

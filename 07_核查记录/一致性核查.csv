@@ -1,0 +1,6 @@
+﻿check,status,detail
+first_grid,PASS,36 BMD2 candidate scores and 8 fold selections independently recomputed
+winter_inlet,PASS,3 BMD2 candidates and 4 fold selections verified
+scenarios,PASS,"54 solver logs and hashes, 1566 output profiles, weighted means and nutrient mass closure verified"
+interactions,PASS,464 interactions recalculated from underlying scenario outputs
+figure_data,PASS,All six plotted source tables equal archived calculation tables

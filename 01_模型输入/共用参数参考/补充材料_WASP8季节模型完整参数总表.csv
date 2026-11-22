@@ -1,0 +1,1186 @@
+﻿category,model,period,segment_id,parameter_code,parameter_name,value,unit,evidence_status,source_file,note
+渠道几何,两季共用,两期,S01,length_m,渠段长度,12420.48341334,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S01,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S01,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S01,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S01,volume_m3,渠段体积,4661407.42502733,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S02,length_m,渠段长度,66022.02961794,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S02,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S02,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S02,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S02,volume_m3,渠段体积,24778067.7156139,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S03,length_m,渠段长度,84479.72160031,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S03,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S03,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S03,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S03,volume_m3,渠段体积,31705239.51659806,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S04,length_m,渠段长度,50430.09598184,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S04,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S04,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S04,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S04,volume_m3,渠段体积,18926415.02198305,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S05,length_m,渠段长度,57856.51345593,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S05,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S05,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S05,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S05,volume_m3,渠段体积,21713549.50000941,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S06,length_m,渠段长度,14229.91565268,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S06,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S06,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S06,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S06,volume_m3,渠段体积,5340487.34444893,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S07,length_m,渠段长度,33572.54853898,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S07,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S07,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S07,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S07,volume_m3,渠段体积,12599777.46668031,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S08,length_m,渠段长度,77976.9714943,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S08,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S08,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S08,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S08,volume_m3,渠段体积,29264757.40181005,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S09,length_m,渠段长度,35982.65295613,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S09,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S09,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S09,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S09,volume_m3,渠段体积,13504289.65443445,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S10,length_m,渠段长度,4114.06883925,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S10,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S10,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S10,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S10,volume_m3,渠段体积,1544010.0353694,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S11,length_m,渠段长度,68351.38523752,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S11,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S11,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S11,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S11,volume_m3,渠段体积,25652274.87964164,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S12,length_m,渠段长度,31205.29042259,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S12,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S12,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S12,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S12,volume_m3,渠段体积,11711345.49559726,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S13,length_m,渠段长度,18716.41772151,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S13,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S13,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S13,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S13,volume_m3,渠段体积,7024271.57088346,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S14,length_m,渠段长度,44203.37492872,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S14,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S14,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S14,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S14,volume_m3,渠段体积,16589526.61074938,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S15,length_m,渠段长度,56075.09610555,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S15,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S15,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S15,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S15,volume_m3,渠段体积,21044983.56841179,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S16,length_m,渠段长度,1240.89478708,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S16,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S16,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S16,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S16,volume_m3,渠段体积,465707.81359225,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S17,length_m,渠段长度,68155.28101486,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S17,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S17,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S17,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S17,volume_m3,渠段体积,25578676.96487732,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S18,length_m,渠段长度,68515.35473462,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S18,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S18,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S18,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S18,volume_m3,渠段体积,25713812.63190212,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S19,length_m,渠段长度,19582.40737704,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S19,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S19,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S19,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S19,volume_m3,渠段体积,7349277.48860277,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S20,length_m,渠段长度,62918.14471559,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S20,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S20,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S20,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S20,volume_m3,渠段体积,23613179.7117613,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S21,length_m,渠段长度,58703.55186305,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S21,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S21,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S21,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S21,volume_m3,渠段体积,22031443.01420115,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S22,length_m,渠段长度,61968.93436053,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S22,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S22,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S22,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S22,volume_m3,渠段体积,23256941.06550578,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S23,length_m,渠段长度,11438.3143654,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S23,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S23,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S23,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S23,volume_m3,渠段体积,4292799.38133464,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S24,length_m,渠段长度,15759.1990025,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S24,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S24,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S24,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S24,volume_m3,渠段体积,5914427.38563823,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S25,length_m,渠段长度,94674.66927666,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S25,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S25,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S25,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S25,volume_m3,渠段体积,35531403.37953054,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S26,length_m,渠段长度,44485.9957202,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S26,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S26,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S26,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S26,volume_m3,渠段体积,16695594.19379105,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S27,length_m,渠段长度,20543.15327461,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S27,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S27,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S27,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S27,volume_m3,渠段体积,7709845.42396111,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S28,length_m,渠段长度,70351.15392825,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S28,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S28,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S28,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S28,volume_m3,渠段体积,26402788.06927219,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S29,length_m,渠段长度,165668.51771616,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S29,rectangular_width_m,统一矩形渠宽,54.0,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S29,rectangular_depth_m,统一水深,6.95,m,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S29,cross_section_m2,矩形面积,375.3,m²,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+渠道几何,两季共用,两期,S29,volume_m3,渠段体积,62175394.69887488,m³,距离推算或统一断面假设,01_模型输入/01_segments_uniform_geometry.csv,
+水动力与水温,2020-08,2020-08,S01,Q_in_m3_s,入流,307.8732261,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,Q_out_m3_s,出流,292.5217224,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,withdrawal_m3_s,概念取水,15.3515037,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,representative_Q_m3_s,代表流量,300.19747425,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,velocity_m_s,断面流速,0.79988669,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,residence_days,渠段停留时间,0.17971995,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S01,temperature_C,站点配对水温,25.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,Q_in_m3_s,入流,292.5217224,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,Q_out_m3_s,出流,288.81418825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,withdrawal_m3_s,概念取水,3.70753415,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,representative_Q_m3_s,代表流量,290.66795532,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,velocity_m_s,断面流速,0.77449495,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,residence_days,渠段停留时间,0.98663504,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S02,temperature_C,站点配对水温,26.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,Q_in_m3_s,入流,288.81418825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,Q_out_m3_s,出流,288.81418825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,representative_Q_m3_s,代表流量,288.81418825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,velocity_m_s,断面流速,0.76955552,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,residence_days,渠段停留时间,1.27057051,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S03,temperature_C,站点配对水温,27.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,Q_in_m3_s,入流,288.81418825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,Q_out_m3_s,出流,277.1473665,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,withdrawal_m3_s,概念取水,11.66682175,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,representative_Q_m3_s,代表流量,282.98077738,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,velocity_m_s,断面流速,0.7540122,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,residence_days,渠段停留时间,0.77410109,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S04,temperature_C,站点配对水温,27.5,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,Q_in_m3_s,入流,277.1473665,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,Q_out_m3_s,出流,277.1473665,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,representative_Q_m3_s,代表流量,277.1473665,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,velocity_m_s,断面流速,0.73846887,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,residence_days,渠段停留时间,0.90678917,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S05,temperature_C,站点配对水温,27.95,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,Q_in_m3_s,入流,277.1473665,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,Q_out_m3_s,出流,264.6345043,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,withdrawal_m3_s,概念取水,12.5128622,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,representative_Q_m3_s,代表流量,270.8909354,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,velocity_m_s,断面流速,0.72179839,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,residence_days,渠段停留时间,0.22817743,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S06,temperature_C,站点配对水温,27.55,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,Q_in_m3_s,入流,264.6345043,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,Q_out_m3_s,出流,262.1628325,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,withdrawal_m3_s,概念取水,2.4716718,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,representative_Q_m3_s,代表流量,263.3986684,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,velocity_m_s,断面流速,0.70183498,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,residence_days,渠段停留时间,0.55365032,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S07,temperature_C,站点配对水温,27.35,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,Q_in_m3_s,入流,262.1628325,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,Q_out_m3_s,出流,247.4491936,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,withdrawal_m3_s,概念取水,14.7136389,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,representative_Q_m3_s,代表流量,254.80601305,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,velocity_m_s,断面流速,0.67893955,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,residence_days,渠段停留时间,1.32929543,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S08,temperature_C,站点配对水温,28.45,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,Q_in_m3_s,入流,247.4491936,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,Q_out_m3_s,出流,246.2243392,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,withdrawal_m3_s,概念取水,1.2248544,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,representative_Q_m3_s,代表流量,246.8367664,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,velocity_m_s,断面流速,0.65770521,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,residence_days,渠段停留时间,0.63321057,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S09,temperature_C,站点配对水温,29.5,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,Q_in_m3_s,入流,246.2243392,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,Q_out_m3_s,出流,246.2243392,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,representative_Q_m3_s,代表流量,246.2243392,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,velocity_m_s,断面流速,0.65607338,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,residence_days,渠段停留时间,0.07257807,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S10,temperature_C,站点配对水温,29.45,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,Q_in_m3_s,入流,246.2243392,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,Q_out_m3_s,出流,235.916529,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,withdrawal_m3_s,概念取水,10.3078102,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,representative_Q_m3_s,代表流量,241.0704341,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,velocity_m_s,断面流速,0.64234062,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,residence_days,渠段停留时间,1.23159578,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S11,temperature_C,站点配对水温,29.4,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,Q_in_m3_s,入流,235.916529,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,Q_out_m3_s,出流,235.2016013,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,withdrawal_m3_s,概念取水,0.7149277,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,representative_Q_m3_s,代表流量,235.55906515,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,velocity_m_s,断面流速,0.62765538,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,residence_days,渠段停留时间,0.57543097,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S12,temperature_C,站点配对水温,29.15,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,Q_in_m3_s,入流,235.2016013,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,Q_out_m3_s,出流,232.85304215,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,withdrawal_m3_s,概念取水,2.34855915,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,representative_Q_m3_s,代表流量,234.02732172,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,velocity_m_s,断面流速,0.623574,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,residence_days,渠段停留时间,0.34739294,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S13,temperature_C,站点配对水温,28.95,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,Q_in_m3_s,入流,232.85304215,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,Q_out_m3_s,出流,232.85304215,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,representative_Q_m3_s,代表流量,232.85304215,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,velocity_m_s,断面流速,0.62044509,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,residence_days,渠段停留时间,0.82459051,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S14,temperature_C,站点配对水温,29.05,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,Q_in_m3_s,入流,232.85304215,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,Q_out_m3_s,出流,225.4697516,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,withdrawal_m3_s,概念取水,7.38329055,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,representative_Q_m3_s,代表流量,229.16139687,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,velocity_m_s,断面流速,0.61060857,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,residence_days,渠段停留时间,1.0629024,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S15,temperature_C,站点配对水温,29.15,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,Q_in_m3_s,入流,225.4697516,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,Q_out_m3_s,出流,225.4697516,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,representative_Q_m3_s,代表流量,225.4697516,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,velocity_m_s,断面流速,0.60077205,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,residence_days,渠段停留时间,0.02390625,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S16,temperature_C,站点配对水温,27.7,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,Q_in_m3_s,入流,225.4697516,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,Q_out_m3_s,出流,215.1593864,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,withdrawal_m3_s,概念取水,10.3103652,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,representative_Q_m3_s,代表流量,220.314569,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,velocity_m_s,断面流速,0.58703589,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,residence_days,渠段停留时间,1.34375817,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S17,temperature_C,站点配对水温,26.4,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,Q_in_m3_s,入流,215.1593864,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,Q_out_m3_s,出流,210.4767354,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,withdrawal_m3_s,概念取水,4.682651,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,representative_Q_m3_s,代表流量,212.8180609,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,velocity_m_s,断面流速,0.56706118,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,residence_days,渠段停留时间,1.39844133,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S18,temperature_C,站点配对水温,26.2,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,Q_in_m3_s,入流,210.4767354,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,Q_out_m3_s,出流,205.2905268,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,withdrawal_m3_s,概念取水,5.1862086,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,representative_Q_m3_s,代表流量,207.8836311,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,velocity_m_s,断面流速,0.55391322,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,residence_days,渠段停留时间,0.40917643,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S19,temperature_C,站点配对水温,25.9,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,Q_in_m3_s,入流,205.2905268,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,Q_out_m3_s,出流,183.4656259,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,withdrawal_m3_s,概念取水,21.8249009,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,representative_Q_m3_s,代表流量,194.37807635,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,velocity_m_s,断面流速,0.5179272,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,residence_days,渠段停留时间,1.40602632,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S20,temperature_C,站点配对水温,26.15,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,Q_in_m3_s,入流,183.4656259,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,Q_out_m3_s,出流,158.2343266,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,withdrawal_m3_s,概念取水,25.2312993,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,representative_Q_m3_s,代表流量,170.84997625,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,velocity_m_s,断面流速,0.45523575,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,residence_days,渠段停留时间,1.49249979,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S21,temperature_C,站点配对水温,26.4,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,Q_in_m3_s,入流,158.2343266,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,Q_out_m3_s,出流,111.2978853,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,withdrawal_m3_s,概念取水,46.9364413,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,representative_Q_m3_s,代表流量,134.76610595,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,velocity_m_s,断面流速,0.35908901,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,residence_days,渠段停留时间,1.99736838,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S22,temperature_C,站点配对水温,26.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,Q_in_m3_s,入流,111.2978853,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,Q_out_m3_s,出流,106.7496318,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,withdrawal_m3_s,概念取水,4.5482535,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,representative_Q_m3_s,代表流量,109.02375855,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,velocity_m_s,断面流速,0.29049762,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,residence_days,渠段停留时间,0.45572799,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S23,temperature_C,站点配对水温,26.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,Q_in_m3_s,入流,106.7496318,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,Q_out_m3_s,出流,106.7496318,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,representative_Q_m3_s,代表流量,106.7496318,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,velocity_m_s,断面流速,0.28443813,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,residence_days,渠段停留时间,0.64125767,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S24,temperature_C,站点配对水温,28.25,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,Q_in_m3_s,入流,50.28301153,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,Q_out_m3_s,出流,50.28301153,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,representative_Q_m3_s,代表流量,50.28301153,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,velocity_m_s,断面流速,0.13398085,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,residence_days,渠段停留时间,8.1785693,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S25,temperature_C,站点配对水温,29.9,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,Q_in_m3_s,入流,50.28301153,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,Q_out_m3_s,出流,15.36141374,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,withdrawal_m3_s,概念取水,34.92159779,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,representative_Q_m3_s,代表流量,32.82221264,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,velocity_m_s,断面流速,0.08745594,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,residence_days,渠段停留时间,5.8873558,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S26,temperature_C,站点配对水温,29.05,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,Q_in_m3_s,入流,15.36141374,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,Q_out_m3_s,出流,15.36141374,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,representative_Q_m3_s,代表流量,15.36141374,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,velocity_m_s,断面流速,0.04093103,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,residence_days,渠段停留时间,5.80899151,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S27,temperature_C,站点配对水温,28.7,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,Q_in_m3_s,入流,56.46662027,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,Q_out_m3_s,出流,25.01645168,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,withdrawal_m3_s,概念取水,31.45016859,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,representative_Q_m3_s,代表流量,40.74153597,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,velocity_m_s,断面流速,0.10855725,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,residence_days,渠段停留时间,7.50064566,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S28,temperature_C,站点配对水温,30.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,Q_in_m3_s,入流,25.01645168,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,Q_out_m3_s,出流,25.01645168,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,representative_Q_m3_s,代表流量,25.01645168,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,velocity_m_s,断面流速,0.06665721,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,residence_days,渠段停留时间,28.76597501,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2020-08,2020-08,S29,temperature_C,站点配对水温,30.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,Q_in_m3_s,入流,273.1831556,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,Q_out_m3_s,出流,256.421276,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,withdrawal_m3_s,概念取水,16.7618796,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,representative_Q_m3_s,代表流量,264.8022158,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,velocity_m_s,断面流速,0.70557478,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,residence_days,渠段停留时间,0.20374254,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S01,temperature_C,站点配对水温,10.6,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,Q_in_m3_s,入流,256.421276,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,Q_out_m3_s,出流,243.9761744,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,withdrawal_m3_s,概念取水,12.4451016,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,representative_Q_m3_s,代表流量,250.1987252,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,velocity_m_s,断面流速,0.66666327,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,residence_days,渠段停留时间,1.14622163,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S02,temperature_C,站点配对水温,10.8,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,Q_in_m3_s,入流,243.9761744,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,Q_out_m3_s,出流,243.9761744,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,representative_Q_m3_s,代表流量,243.9761744,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,velocity_m_s,断面流速,0.65008307,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,residence_days,渠段停留时间,1.50407634,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S03,temperature_C,站点配对水温,11.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,Q_in_m3_s,入流,243.9761744,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,Q_out_m3_s,出流,229.90141905,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,withdrawal_m3_s,概念取水,14.07475535,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,representative_Q_m3_s,代表流量,236.93879673,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,velocity_m_s,断面流速,0.63133173,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,residence_days,渠段停留时间,0.92452453,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S04,temperature_C,站点配对水温,10.75,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,Q_in_m3_s,入流,229.90141905,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,Q_out_m3_s,出流,229.90141905,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,representative_Q_m3_s,代表流量,229.90141905,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,velocity_m_s,断面流速,0.61258039,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,residence_days,渠段停留时间,1.0931391,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S05,temperature_C,站点配对水温,10.6,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,Q_in_m3_s,入流,229.90141905,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,Q_out_m3_s,出流,227.8582758,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,withdrawal_m3_s,概念取水,2.04314325,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,representative_Q_m3_s,代表流量,228.87984743,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,velocity_m_s,断面流速,0.60985837,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,residence_days,渠段停留时间,0.27005958,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S06,temperature_C,站点配对水温,10.75,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,Q_in_m3_s,入流,227.8582758,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,Q_out_m3_s,出流,222.9335928,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,withdrawal_m3_s,概念取水,4.924683,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,representative_Q_m3_s,代表流量,225.3959343,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,velocity_m_s,断面流速,0.60057536,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,residence_days,渠段停留时间,0.64699817,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S07,temperature_C,站点配对水温,10.9,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,Q_in_m3_s,入流,222.9335928,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,Q_out_m3_s,出流,211.666685,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,withdrawal_m3_s,概念取水,11.2669078,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,representative_Q_m3_s,代表流量,217.3001389,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,velocity_m_s,断面流速,0.57900383,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,residence_days,渠段停留时间,1.55873103,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S08,temperature_C,站点配对水温,10.25,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,Q_in_m3_s,入流,211.666685,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,Q_out_m3_s,出流,209.7574049,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,withdrawal_m3_s,概念取水,1.9092801,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,representative_Q_m3_s,代表流量,210.71204495,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,velocity_m_s,断面流速,0.56144963,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,residence_days,渠段停留时间,0.74176893,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S09,temperature_C,站点配对水温,9.5,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,Q_in_m3_s,入流,209.7574049,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,Q_out_m3_s,出流,209.7574049,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,representative_Q_m3_s,代表流量,209.7574049,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,velocity_m_s,断面流速,0.55890595,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,residence_days,渠段停留时间,0.08519597,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S10,temperature_C,站点配对水温,9.75,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,Q_in_m3_s,入流,209.7574049,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,Q_out_m3_s,出流,200.7170224,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,withdrawal_m3_s,概念取水,9.0403825,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,representative_Q_m3_s,代表流量,205.23721365,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,velocity_m_s,断面流速,0.54686175,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,residence_days,渠段停留时间,1.44662522,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S11,temperature_C,站点配对水温,10.25,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,Q_in_m3_s,入流,200.7170224,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,Q_out_m3_s,出流,199.1263044,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,withdrawal_m3_s,概念取水,1.590718,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,representative_Q_m3_s,代表流量,199.9216634,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,velocity_m_s,断面流速,0.53269828,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,residence_days,渠段停留时间,0.67800546,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S12,temperature_C,站点配对水温,10.6,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,Q_in_m3_s,入流,199.1263044,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,Q_out_m3_s,出流,195.0711866,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,withdrawal_m3_s,概念取水,4.0551178,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,representative_Q_m3_s,代表流量,197.0987455,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,velocity_m_s,断面流速,0.52517651,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,residence_days,渠段停留时间,0.41248076,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S13,temperature_C,站点配对水温,10.75,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,Q_in_m3_s,入流,195.0711866,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,Q_out_m3_s,出流,194.3616141,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,withdrawal_m3_s,概念取水,0.7095725,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,representative_Q_m3_s,代表流量,194.71640035,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,velocity_m_s,断面流速,0.51882867,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,residence_days,渠段停留时间,0.98609264,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S14,temperature_C,站点配对水温,10.8,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,Q_in_m3_s,入流,194.3616141,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,Q_out_m3_s,出流,187.661689,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,withdrawal_m3_s,概念取水,6.6999251,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,representative_Q_m3_s,代表流量,191.01165155,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,velocity_m_s,断面流速,0.50895724,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,residence_days,渠段停留时间,1.27519027,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S15,temperature_C,站点配对水温,10.75,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,Q_in_m3_s,入流,187.661689,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,Q_out_m3_s,出流,187.661689,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,representative_Q_m3_s,代表流量,187.661689,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,velocity_m_s,断面流速,0.50003115,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,residence_days,渠段停留时间,0.02872263,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S16,temperature_C,站点配对水温,10.45,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,Q_in_m3_s,入流,187.661689,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,Q_out_m3_s,出流,178.2087633,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,withdrawal_m3_s,概念取水,9.4529257,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,representative_Q_m3_s,代表流量,182.93522615,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,velocity_m_s,断面流速,0.48743732,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,residence_days,渠段停留时间,1.61832966,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S17,temperature_C,站点配对水温,10.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,Q_in_m3_s,入流,178.2087633,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,Q_out_m3_s,出流,170.7177567,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,withdrawal_m3_s,概念取水,7.4910066,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,representative_Q_m3_s,代表流量,174.46326,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,velocity_m_s,断面流速,0.46486347,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,residence_days,渠段停留时间,1.70588107,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S18,temperature_C,站点配对水温,9.95,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,Q_in_m3_s,入流,170.7177567,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,Q_out_m3_s,出流,164.8242906,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,withdrawal_m3_s,概念取水,5.8934661,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,representative_Q_m3_s,代表流量,167.77102365,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,velocity_m_s,断面流速,0.44703177,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,residence_days,渠段停留时间,0.50700699,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S19,temperature_C,站点配对水温,10.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,Q_in_m3_s,入流,164.8242906,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,Q_out_m3_s,出流,144.7091527,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,withdrawal_m3_s,概念取水,20.1151379,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,representative_Q_m3_s,代表流量,154.76672165,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,velocity_m_s,断面流速,0.41238135,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,residence_days,渠段停留时间,1.76588796,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S20,temperature_C,站点配对水温,10.15,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,Q_in_m3_s,入流,144.7091527,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,Q_out_m3_s,出流,121.02384032,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,withdrawal_m3_s,概念取水,23.68531238,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,representative_Q_m3_s,代表流量,132.86649651,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,velocity_m_s,断面流速,0.35402744,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,residence_days,渠段停留时间,1.9191712,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S21,temperature_C,站点配对水温,10.1,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,Q_in_m3_s,入流,121.02384032,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,Q_out_m3_s,出流,96.02103348,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,withdrawal_m3_s,概念取水,25.00280684,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,representative_Q_m3_s,代表流量,108.5224369,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,velocity_m_s,断面流速,0.28916184,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,residence_days,渠段停留时间,2.48038623,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S22,temperature_C,站点配对水温,9.5,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,Q_in_m3_s,入流,96.02103348,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,Q_out_m3_s,出流,89.22586532,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,withdrawal_m3_s,概念取水,6.79516816,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,representative_Q_m3_s,代表流量,92.6234494,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,velocity_m_s,断面流速,0.24679843,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,residence_days,渠段停留时间,0.53642116,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S23,temperature_C,站点配对水温,8.65,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,Q_in_m3_s,入流,89.22586532,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,Q_out_m3_s,出流,89.22586532,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,representative_Q_m3_s,代表流量,89.22586532,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,velocity_m_s,断面流速,0.23774544,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,residence_days,渠段停留时间,0.76719929,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S24,temperature_C,站点配对水温,8.65,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,Q_in_m3_s,入流,42.15962384,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,Q_out_m3_s,出流,41.33631687,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,withdrawal_m3_s,概念取水,0.82330697,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,representative_Q_m3_s,代表流量,41.74797035,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,velocity_m_s,断面流速,0.11123893,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,residence_days,渠段停留时间,9.85061288,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S25,temperature_C,站点配对水温,9.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,Q_in_m3_s,入流,41.33631687,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,Q_out_m3_s,出流,13.74362777,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,withdrawal_m3_s,概念取水,27.5926891,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,representative_Q_m3_s,代表流量,27.53997232,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,velocity_m_s,断面流速,0.07338122,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,residence_days,渠段停留时间,7.01656638,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S26,temperature_C,站点配对水温,8.25,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,Q_in_m3_s,入流,13.74362777,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,Q_out_m3_s,出流,13.74362777,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,representative_Q_m3_s,代表流量,13.74362777,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,velocity_m_s,断面流速,0.03662038,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,residence_days,渠段停留时间,6.49277786,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S27,temperature_C,站点配对水温,7.25,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,Q_in_m3_s,入流,47.06624148,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,Q_out_m3_s,出流,20.85179439,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,withdrawal_m3_s,概念取水,26.21444709,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,representative_Q_m3_s,代表流量,33.95901794,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,velocity_m_s,断面流速,0.09048499,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,residence_days,渠段停留时间,8.99872386,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S28,temperature_C,站点配对水温,9.0,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,Q_in_m3_s,入流,20.85179439,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,Q_out_m3_s,出流,20.85179439,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,withdrawal_m3_s,概念取水,0.0,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,representative_Q_m3_s,代表流量,20.85179439,m³/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,velocity_m_s,断面流速,0.05556034,m/s,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,residence_days,渠段停留时间,34.51130441,d,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+水动力与水温,2021-03,2021-03,S29,temperature_C,站点配对水温,8.8,°C,输入重整或推算,01_模型输入/02_flow_mass_balanced_two_cases.csv,配对水温用于构造代表工况；实际模型采用29段算术均温时间函数
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_45,Phytoplankton Half-Sat. for Mineralization Rate (mg Phyt C/L),0.00000100,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_64,Phytoplankton Detritus to Carbon Ratio (mg D/mg C),4.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_65,Phytoplankton Nitrogen to Carbon Ratio (mg N/mg C),0.15000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_66,Phytoplankton Phosphorus to Carbon Ratio (mg P/mg C),0.01200000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_67,Phytoplankton Silica to Carbon Ratio (mg Si/mg C),0.80000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_68,Phytoplankton Carbon to Chlorophyll Ratio (mg C/mg Chl),25.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_69,Phytoplankton Maximum Growth Rate Constant @20 C (1/day),0.50000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_70,Phytoplankton Growth Temperature Coefficient,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_71,Optimal Temperature for Growth (C),30.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_72,Shape parameter for below optimal temperatures,0.05000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_73,Shape parameter for above optimal temperatures,0.05000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_74,Phytoplankton Respiration Rate Constant @20 C (1/day),0.02000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_75,Phytoplankton Respiration Temperature Coefficient,1.07000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_76,Phytoplankton Death Rate Constant (Non-Zoo Predation) (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_77,Phytoplankton death rate due to salinity toxicity (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_79,Phytoplankton Zooplankton Grazing Rate Constant (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_80,Grazability (0 to 1),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_81,Phytoplankton Half-Saturation Constant for N Uptake (mg N/L),0.02000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_82,Phytoplankton Half-Saturation Constant for P Uptake (mg P/L),0.00100000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_83,Phytoplankton Half-Saturation Constant for Si Uptake (mg Si/L),0.04000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_84,Nitrogen fixation option (0 no- 1=yes) ,0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_85,Steele -- Optimal Light Saturation as PAR (watts/m2) for Phyto Growth,300.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_86,Fraction of Phytoplankton Respiration Recycled to Organic N,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_87,Fraction of Phytoplankton Respiration Recycled to Organic P,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_88,Fraction of Phytoplankton Respiration Recycled to Organic Si,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_89,Fraction of Phytoplankton Death Recycled to Detritus N,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_90,Fraction of Phytoplankton Death Recycled to Detritus P,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_91,Fraction of Phytoplankton Death Recycled to Detritus Si,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_93,Light Option (0 - light from lat-long; 1 - input diel light;  2 - input daily light- calculated diel light),2.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_94,Multiplier for Self Shading (Mult * TCHLA^Exp),0.05870000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_95,Exponent for Self Shading (Mult * TCHLA^Exp),0.77850000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_96,Include Algal Self Shading Light Extinction in Steele (0=Yes- 1=No),1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_97,Background Light Extinction Coefficient (1/m),0.10000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_520,"Salinity Mortality Thresholds (Fresh to Saltwater) Conc. [g/L], [ppt], or [PSU]",0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_607,Phytoplankton death rate due to freshwater toxicity (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_608,"Salinity Mortality Thresholds (Salt to Freshwater) Conc. [g/L], [ppt], or [PSU]",0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_609,"Salinity level for half mortality due to salinity toxicity [g/L] [g/L], [ppt], or [PSU]",1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,夏季,2020-08,全模型,CONST_ISC_610,"Salinity level for half mortality rate due to freshwater toxicity [g/L], [ppt], or [PSU]",1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+时间函数,夏季,2020-08,全模型,TF_ISC_1,Water Temperature Function ( °C),27.88275862,°C,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_2,Velocity Function (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_3,Fraction Daily Light (fraction),0.50000000,比例,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_4,Solar Radiation - 1 (W/m2),150.00000000,W/m²,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_5,Solar Radiation - 2 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_6,Solar Radiation - 3 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_7,Solar Radiation - 4 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_8,Light Extinction Coefficient Function 1 (unitless or 1/m),0.70000000,m⁻¹,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_9,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_10,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_11,Ice Cover Function 1 (fraction covered),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_12,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_13,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_14,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_15,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_16,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_17,Air Temperature Function 1 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_18,Air Temperature Function 2 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_19,Air Temperature Function 3 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_20,Air Temperature Function 4 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_21,Wind Speed Function 1 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_22,Wind Speed Function 2 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_23,Wind Speed Function 3 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_24,Wind Speed Function 4 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_25,Cloud Cover Function 1 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_26,Cloud Cover Function 2 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_27,Cloud Cover Function 3 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_28,Cloud Cover Function 4 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_29,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_30,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_31,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_32,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_33,Canopy Shading Function 1 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_34,Canopy Shading Function 2 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_35,Canopy Shading Function 3 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_36,Canopy Shading Function 4 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_37,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_38,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_39,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_40,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_41,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_42,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_43,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_44,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_45,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_46,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_47,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_48,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_49,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_50,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_51,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_52,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_53,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_54,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_55,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_56,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_57,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_58,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_59,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_60,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_61,Light Extinction Coefficient Function 2 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_62,Light Extinction Coefficient Function 3 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_63,Light Extinction Coefficient Function 4 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_64,Atmospheric Pressure,1.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_65,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_66,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_67,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_68,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_69,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,夏季,2020-08,全模型,TF_ISC_70,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+WASP分段参数,夏季,2020-08,S01,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S01,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S01,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S01,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S02,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S02,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S02,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S02,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S03,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S03,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S03,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S03,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S04,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S04,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S04,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S04,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S05,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S05,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S05,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S05,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S06,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S06,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S06,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S06,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S07,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S07,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S07,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S07,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S08,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S08,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S08,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S08,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S09,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S09,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S09,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S09,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S10,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S10,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S10,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S10,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S11,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S11,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S11,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S11,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S12,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S12,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S12,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S12,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S13,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S13,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S13,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S13,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S14,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S14,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S14,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S14,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S15,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S15,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S15,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S15,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S16,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S16,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S16,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S16,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S17,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S17,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S17,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S17,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S18,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S18,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S18,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S18,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S19,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S19,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S19,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S19,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S20,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S20,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S20,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S20,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S21,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S21,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S21,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S21,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S22,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S22,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S22,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S22,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S23,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S23,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S23,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S23,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S24,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S24,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S24,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S24,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S25,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S25,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S25,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S25,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S26,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S26,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S26,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S26,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S27,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S27,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S27,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S27,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S28,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S28,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S28,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S28,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+WASP分段参数,夏季,2020-08,S29,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S29,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S29,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2020-08/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,夏季,2020-08,S29,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.70000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,
+边界与初值,夏季,2020-08,S01—S29,SYS1,NH₄-N,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS2,NOx-N,0.92250000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS3,溶解有机氮,0.06022500,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS4,碎屑氮,0.06022500,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS5,DIP,0.00102000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS6,溶解有机磷,0.00384000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS7,碎屑磷,0.00384000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS8,DO,9.70000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS9,CBODU,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS10,POC,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,06_复现脚本/参数溯源命令/2020-08/eutro_finalize.txt,恒定入口和29段统一初值
+边界与初值,夏季,2020-08,S01—S29,SYS11,Chl-a,5.00000000,µg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30_build.txt,恒定入口和29段统一初值
+工程文件,夏季,2020-08,全模型,WIF_SHA256,最终工程哈希,92742c86e736a1d78839a166a76b05fc77ba59742dd20be4d67e234cfe35ebc9,hex,实际工程,02_中间输出/06_季节独立率定/最终工程/2020-08/fit_2020-08_C5_G0p5_R0p02_KP0p001_KD0p7_OT30.wif,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_45,Phytoplankton Half-Sat. for Mineralization Rate (mg Phyt C/L),0.00000100,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_64,Phytoplankton Detritus to Carbon Ratio (mg D/mg C),4.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_65,Phytoplankton Nitrogen to Carbon Ratio (mg N/mg C),0.10000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_66,Phytoplankton Phosphorus to Carbon Ratio (mg P/mg C),0.01200000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_67,Phytoplankton Silica to Carbon Ratio (mg Si/mg C),0.80000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_68,Phytoplankton Carbon to Chlorophyll Ratio (mg C/mg Chl),25.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_69,Phytoplankton Maximum Growth Rate Constant @20 C (1/day),4.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_70,Phytoplankton Growth Temperature Coefficient,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_71,Optimal Temperature for Growth (C),20.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_72,Shape parameter for below optimal temperatures,0.05000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_73,Shape parameter for above optimal temperatures,0.05000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_74,Phytoplankton Respiration Rate Constant @20 C (1/day),0.02000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_75,Phytoplankton Respiration Temperature Coefficient,1.07000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_76,Phytoplankton Death Rate Constant (Non-Zoo Predation) (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_77,Phytoplankton death rate due to salinity toxicity (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_79,Phytoplankton Zooplankton Grazing Rate Constant (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_80,Grazability (0 to 1),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_81,Phytoplankton Half-Saturation Constant for N Uptake (mg N/L),0.02000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_82,Phytoplankton Half-Saturation Constant for P Uptake (mg P/L),0.00100000,参见WASP原生参数名,基础设置与季节覆盖命令合并,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_83,Phytoplankton Half-Saturation Constant for Si Uptake (mg Si/L),0.04000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_84,Nitrogen fixation option (0 no- 1=yes) ,0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_85,Steele -- Optimal Light Saturation as PAR (watts/m2) for Phyto Growth,300.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_86,Fraction of Phytoplankton Respiration Recycled to Organic N,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_87,Fraction of Phytoplankton Respiration Recycled to Organic P,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_88,Fraction of Phytoplankton Respiration Recycled to Organic Si,0.20000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_89,Fraction of Phytoplankton Death Recycled to Detritus N,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_90,Fraction of Phytoplankton Death Recycled to Detritus P,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_91,Fraction of Phytoplankton Death Recycled to Detritus Si,1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_93,Light Option (0 - light from lat-long; 1 - input diel light;  2 - input daily light- calculated diel light),2.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_94,Multiplier for Self Shading (Mult * TCHLA^Exp),0.05870000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_95,Exponent for Self Shading (Mult * TCHLA^Exp),0.77850000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_96,Include Algal Self Shading Light Extinction in Steele (0=Yes- 1=No),1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_97,Background Light Extinction Coefficient (1/m),0.10000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_520,"Salinity Mortality Thresholds (Fresh to Saltwater) Conc. [g/L], [ppt], or [PSU]",0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_607,Phytoplankton death rate due to freshwater toxicity (1/day),0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_608,"Salinity Mortality Thresholds (Salt to Freshwater) Conc. [g/L], [ppt], or [PSU]",0.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_609,"Salinity level for half mortality due to salinity toxicity [g/L] [g/L], [ppt], or [PSU]",1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP动力学常数,冬季,2021-03,全模型,CONST_ISC_610,"Salinity level for half mortality rate due to freshwater toxicity [g/L], [ppt], or [PSU]",1.00000000,参见WASP原生参数名,基础设置与季节覆盖命令合并,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+时间函数,冬季,2021-03,全模型,TF_ISC_1,Water Temperature Function ( °C),9.92758621,°C,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_2,Velocity Function (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_3,Fraction Daily Light (fraction),0.50000000,比例,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_4,Solar Radiation - 1 (W/m2),150.00000000,W/m²,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_5,Solar Radiation - 2 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_6,Solar Radiation - 3 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_7,Solar Radiation - 4 (W/m2),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_8,Light Extinction Coefficient Function 1 (unitless or 1/m),0.70000000,m⁻¹,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_9,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_10,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_11,Ice Cover Function 1 (fraction covered),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_12,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_13,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_14,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_15,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_16,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_17,Air Temperature Function 1 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_18,Air Temperature Function 2 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_19,Air Temperature Function 3 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_20,Air Temperature Function 4 (°C),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_21,Wind Speed Function 1 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_22,Wind Speed Function 2 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_23,Wind Speed Function 3 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_24,Wind Speed Function 4 (m/sec),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_25,Cloud Cover Function 1 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_26,Cloud Cover Function 2 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_27,Cloud Cover Function 3 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_28,Cloud Cover Function 4 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_29,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_30,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_31,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_32,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_33,Canopy Shading Function 1 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_34,Canopy Shading Function 2 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_35,Canopy Shading Function 3 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_36,Canopy Shading Function 4 (unitless or fraction),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_37,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_38,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_39,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_40,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_41,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_42,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_43,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_44,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_45,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_46,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_47,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_48,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_49,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_50,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_51,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_52,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_53,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_54,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_55,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_56,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_57,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_58,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_59,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_60,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_61,Light Extinction Coefficient Function 2 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_62,Light Extinction Coefficient Function 3 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_63,Light Extinction Coefficient Function 4 (unitless or 1/m),0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_64,Atmospheric Pressure,1.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_65,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_66,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_67,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_68,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_69,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+时间函数,冬季,2021-03,全模型,TF_ISC_70,初始化函数,0.00000000,原生值,0—90 d常值,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,包括初始化占位函数；条目存在不等于相关过程已启用
+WASP分段参数,冬季,2021-03,S01,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S01,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S01,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S01,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S02,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S02,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S02,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S02,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S03,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S03,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S03,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S03,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S04,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S04,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S04,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S04,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S05,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S05,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S05,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S05,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S06,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S06,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S06,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S06,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S07,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S07,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S07,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S07,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S08,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S08,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S08,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S08,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S09,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S09,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S09,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S09,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S10,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S10,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S10,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S10,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S11,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S11,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S11,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S11,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S12,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S12,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S12,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S12,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S13,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S13,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S13,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S13,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S14,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S14,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S14,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S14,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S15,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S15,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S15,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S15,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S16,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S16,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S16,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S16,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S17,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S17,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S17,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S17,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S18,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S18,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S18,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S18,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S19,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S19,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S19,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S19,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S20,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S20,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S20,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S20,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S21,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S21,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S21,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S21,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S22,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S22,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S22,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S22,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S23,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S23,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S23,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S23,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S24,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S24,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S24,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S24,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S25,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S25,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S25,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S25,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S26,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S26,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S26,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S26,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S27,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S27,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S27,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S27,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S28,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S28,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S28,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S28,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+WASP分段参数,冬季,2021-03,S29,PARAM_ISC_1,Temperature of Segment [°C or Multiplier],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S29,PARAM_ISC_4,Solar Radiation Multiplier [unitless or watts/m2],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S29,PARAM_ISC_5,Solar Radiation Time Function [1-4],1.00000000,原生值,显式设定,06_复现脚本/参数溯源命令/2021-03/PHYTO_daily_combined_finalize.txt,
+WASP分段参数,冬季,2021-03,S29,PARAM_ISC_17,Light Extinction for Segment [per meter or multiplier],0.30000000,m⁻¹,显式设定,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,
+边界与初值,冬季,2021-03,S01—S29,SYS1,NH₄-N,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS2,NOx-N,1.15100000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS3,溶解有机氮,0.00075000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS4,碎屑氮,0.00075000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS5,DIP,0.00106000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS6,溶解有机磷,0.00372000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS7,碎屑磷,0.00372000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS8,DO,9.71000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,01_模型输入/11_EUTRO_state_boundary_and_initial_ASSUMED.csv,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS9,CBODU,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS10,POC,0.00000000,mg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,06_复现脚本/参数溯源命令/2021-03/eutro_finalize.txt,恒定入口和29段统一初值
+边界与初值,冬季,2021-03,S01—S29,SYS11,Chl-a,7.00000000,µg/L,入口代理或假设拆分；有机氮磷已扣除藻体份额,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3_build.txt,恒定入口和29段统一初值
+工程文件,冬季,2021-03,全模型,WIF_SHA256,最终工程哈希,53253af916fcd289b03d5ce08b41e2e30089cae25f179e38874aec608e26b3f0,hex,实际工程,02_中间输出/06_季节独立率定/最终工程/2021-03/fit_2021-03_C7_G4_R0p02_KP0p001_KD0p3.wif,
+情景输入,2020-08,2020-08,T0_P1_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T0_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T2_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2020-08,2020-08,T4_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q0.7,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.0,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.3,T_plus_C,T_plus_C,0,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T0_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q0.7,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.0,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.3,T_plus_C,T_plus_C,2,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T2_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q0.7,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.0,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.3,DIP_factor,DIP_factor,1,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P1_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q0.7,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.0,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.3,DIP_factor,DIP_factor,2,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P2_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q0.7,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q0.7,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q0.7,Q_factor,Q_factor,0.7,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.0,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.0,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.0,Q_factor,Q_factor,1.0,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.3,T_plus_C,T_plus_C,4,°C,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.3,DIP_factor,DIP_factor,4,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
+情景输入,2021-03,2021-03,T4_P4_Q1.3,Q_factor,Q_factor,1.3,倍数,全因子压力测试,03_最终结果/04_季节情景与交互/季节三因素_情景汇总.csv,
