@@ -73,6 +73,6 @@ Rscript 06_复现脚本/plot_course_presentation.R
 
 脚本使用 base R / grDevices，读取 `chart_data` 中已核查的模型输出；参考运行环境为 Windows、R 4.6.1 和 Microsoft YaHei 字体。输出保存在 `04_figures/course_presentation_R`，含 330 dpi PNG、矢量 PDF/SVG、两份绘图数据摘录及 `R_sessionInfo.txt`。PDF 保留文本；base R SVG 的文字可能转为轮廓。PPT 内的图为高清图片，修改数据后应重新运行 R 并组装 PPT；正文和表格可直接编辑。
 
-完整重建 PPT 还需用户提供的单页 `PPT_模板.pptx`、Python 可选依赖及可用的 `@oai/artifact-tool` 运行时。外部模板和 Codex 运行时不包含在仓库中，单独克隆仓库不能直接完成 PPT 组装，但可以直接使用已提供的 PPT/PDF、独立重画全部 R 图件。模板扩展、组装、最终文件重新渲染和 PDF 预览的完整命令见 [课程汇报复现说明](06_复现脚本/README.md#课程汇报演示文稿)。这些步骤不改变 WASP8 模型结果。
+
 
 ![两季三因素情景响应](04_figures/Fig02_seasonal_factorial.png)
